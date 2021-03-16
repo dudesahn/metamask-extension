@@ -398,8 +398,8 @@
   "supportCenter": {
     "message": "Navštivte naše centrum podpory"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Symbol musí mít 11 nebo méně znaků."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Symbol musí mít 25 nebo méně znaků."
   },
   "terms": {
     "message": "Podmínky použití"

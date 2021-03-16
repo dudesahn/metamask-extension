@@ -1041,8 +1041,8 @@
   "symbol": {
     "message": "Simbols"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Simbolā nedrīkst būt vairāk par 11 rakstzīmēm."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Simbolā nedrīkst būt vairāk par 25 rakstzīmēm."
   },
   "syncWithMobile": {
     "message": "Sinhronizēt ar tālruni"

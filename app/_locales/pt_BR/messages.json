@@ -1033,8 +1033,8 @@
   "symbol": {
     "message": "Símbolo"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "O símbolo deve ter 11 caracteres ou menos."
+  "symbolBetweenZeroTwentySix": {
+    "message": "O símbolo deve ter 25 caracteres ou menos."
   },
   "syncWithMobile": {
     "message": "Sincronizar com o celular"

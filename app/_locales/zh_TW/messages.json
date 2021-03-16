@@ -1033,8 +1033,8 @@
   "symbol": {
     "message": "符號"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "符號不得超過11個字符。"
+  "symbolBetweenZeroTwentySix": {
+    "message": "符號不得超過25個字符。"
   },
   "syncWithMobile": {
     "message": "和移動裝置同步"

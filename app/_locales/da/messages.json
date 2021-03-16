@@ -1020,8 +1020,8 @@
   "switchNetworks": {
     "message": "Skift Netværk"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Symbolet skal være mindst 11 tegn."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Symbolet skal være mindst 25 tegn."
   },
   "syncWithMobile": {
     "message": "Synkronisér med mobil"

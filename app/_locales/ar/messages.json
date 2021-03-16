@@ -1038,8 +1038,8 @@
   "symbol": {
     "message": "رمز"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "يجب أن يكون الرمز 11 حرفًا أو أقل."
+  "symbolBetweenZeroTwentySix": {
+    "message": "يجب أن يكون الرمز 25 حرفًا أو أقل."
   },
   "syncWithMobile": {
     "message": "مزامنة مع الهاتف المحمول"

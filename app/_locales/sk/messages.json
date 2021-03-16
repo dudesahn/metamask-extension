@@ -1005,8 +1005,8 @@
   "switchNetworks": {
     "message": "Prepnúť siete"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Symbol musí být mezi 0 a 12 znaky."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Symbol musí být mezi 0 a 26 znaky."
   },
   "syncWithMobile": {
     "message": "Synchronizácia s mobilom"

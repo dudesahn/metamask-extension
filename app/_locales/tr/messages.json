@@ -420,8 +420,8 @@
   "supportCenter": {
     "message": "Destek merkezimizi ziyaret edin"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Sembol 11 karakter veya daha az olmalıdır."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Sembol 25 karakter veya daha az olmalıdır."
   },
   "terms": {
     "message": "Kullanım şartları"

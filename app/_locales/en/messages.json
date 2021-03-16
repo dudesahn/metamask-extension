@@ -1989,8 +1989,8 @@
   "symbol": {
     "message": "Symbol"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Symbol must be 11 characters or fewer."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Symbol must be 25 characters or fewer."
   },
   "syncWithMobile": {
     "message": "Sync with mobile"

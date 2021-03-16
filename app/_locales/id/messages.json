@@ -1815,8 +1815,8 @@
   "symbol": {
     "message": "Simbol"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Simbol harus terdiri dari 11 karakter atau kurang."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Simbol harus terdiri dari 25 karakter atau kurang."
   },
   "syncWithMobile": {
     "message": "Sinkronisasi dengan seluler"

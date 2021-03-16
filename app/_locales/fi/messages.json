@@ -1042,8 +1042,8 @@
   "symbol": {
     "message": "Symboli"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Symbolin on oltava 11 merkkiä tai vähemmän."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Symbolin on oltava 25 merkkiä tai vähemmän."
   },
   "syncWithMobile": {
     "message": "Synkronoi mobiililaitteelle"

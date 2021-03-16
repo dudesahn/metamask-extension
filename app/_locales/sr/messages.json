@@ -1036,8 +1036,8 @@
   "symbol": {
     "message": "Simbol"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Simbol mora biti 11 znakova ili manje."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Simbol mora biti 25 znakova ili manje."
   },
   "syncWithMobile": {
     "message": "Sinhronizacija sa mobilnim telefonom"

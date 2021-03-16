@@ -1812,8 +1812,8 @@
   "symbol": {
     "message": "Simbolo"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Dapat ay 11 character o mas kaunti ang simbolo."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Dapat ay 25 character o mas kaunti ang simbolo."
   },
   "syncWithMobile": {
     "message": "I-sync sa mobile"

@@ -1042,8 +1042,8 @@
   "symbol": {
     "message": "ምልክት"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "ምልክቱ 11 ቁምፊዎች ወይም ከዚያ ያነሰ መሆን አለበት።"
+  "symbolBetweenZeroTwentySix": {
+    "message": "ምልክቱ 25 ቁምፊዎች ወይም ከዚያ ያነሰ መሆን አለበት።"
   },
   "syncWithMobile": {
     "message": "ከሞባይል ጋር አሳምር"

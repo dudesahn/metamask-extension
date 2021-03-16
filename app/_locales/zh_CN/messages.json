@@ -1851,8 +1851,8 @@
   "symbol": {
     "message": "符号"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "符号不得超过 11 个字符。"
+  "symbolBetweenZeroTwentySix": {
+    "message": "符号不得超过 25 个字符。"
   },
   "syncWithMobile": {
     "message": "使用移动设备同步"

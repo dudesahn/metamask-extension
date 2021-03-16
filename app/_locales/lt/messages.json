@@ -1045,8 +1045,8 @@
   "symbol": {
     "message": "Simbolis"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Simbolis turi būti ne ilgesnis nei 11 simbolių."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Simbolis turi būti ne ilgesnis nei 26 simbolių."
   },
   "syncWithMobile": {
     "message": "Sinchronizuoti su mobiliuoju"

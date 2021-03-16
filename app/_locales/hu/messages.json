@@ -1038,8 +1038,8 @@
   "symbol": {
     "message": "Szimbólum"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "A szimbólum 0 és 12 karakter között kell legyen."
+  "symbolBetweenZeroTwentySix": {
+    "message": "A szimbólum 0 és 26 karakter között kell legyen."
   },
   "syncWithMobile": {
     "message": "Szinkronizálás telefonnal"

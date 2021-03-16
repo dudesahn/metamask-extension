@@ -1022,8 +1022,8 @@
   "symbol": {
     "message": "Simbol"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "Simbol mestilah 11 aksara atau kurang."
+  "symbolBetweenZeroTwentySix": {
+    "message": "Simbol mestilah 25 aksara atau kurang."
   },
   "syncWithMobile": {
     "message": "Segerakkan dengan telefon mudah alih"

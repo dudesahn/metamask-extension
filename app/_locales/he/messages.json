@@ -1039,8 +1039,8 @@
   "symbol": {
     "message": "סמל"
   },
-  "symbolBetweenZeroTwelve": {
-    "message": "הסמל חייב להיות 11 תווים או פחות."
+  "symbolBetweenZeroTwentySix": {
+    "message": "הסמל חייב להיות 25 תווים או פחות."
   },
   "syncWithMobile": {
     "message": "סנכרן עם הנייד"
